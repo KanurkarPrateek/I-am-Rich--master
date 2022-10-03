@@ -4,3 +4,6 @@ Have you heard about an app that had the name I am rich which was priced at arou
 
 Getting Started
 A few resources to get you started if this is your first Flutter project:
+
+Screenshot of application
+<img src="images/Screenshot_20201004-203651.png" width="100">
